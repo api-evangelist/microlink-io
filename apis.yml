@@ -39,7 +39,6 @@ apis:
   - name: Microlink.io
     description: "Extract structured data from any website"
     humanURL: https://microlink.io
-    baseURL: https://microlink.io
     tags:
       - Open Data
     properties:
